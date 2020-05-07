@@ -13,6 +13,6 @@ and my powerpoint slides explaining my findings: <br>
 My final model had an 83% accuracy on the test data set. <br>
 
 ## Data used
-The images used in this project was downloaded from [kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) and provided by [cell](http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5) it consists of x ray images of 1-5 year old patients from the Guangzhou Women and Children's Medical Center, Guangzhou.
+The images used in this project were downloaded from [kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) and provided by [cell](http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5) it consists of x ray images of 1-5 year old patients from the Guangzhou Women and Children's Medical Center, Guangzhou.
 
 
